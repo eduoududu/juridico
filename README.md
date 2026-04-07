@@ -4,6 +4,7 @@ Aluno: Eduardo Henrique
 Data de realização de teste: 07/04/2026
 
 Código fonte : https://github.com/eduoududu/juridico
+
 Página do projeto: https://eduoududu.github.io/juridico/reports/
 
 O trabalho envolveu análise de benchmark de resposta de IA à questões subjetivas e objetivas de multipla escolha.
